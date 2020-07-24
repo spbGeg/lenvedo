@@ -1,0 +1,39 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.main{
+
+    margin-top: 100px;
+    
+}
+.h1{
+    text-align: center;
+}
+.content{
+    min-height: 300px;
+}
+
+.url-add__input input{
+    margin-right: 30px;
+    margin-bottom: 30px
+}
+label{
+    cursor: pointer;
+}
+.message-alert li{
+    list-style-type: none;
+    padding-top: 5px;
+
+}
+
+#url{
+    margin-bottom: 20px;
+}
+
